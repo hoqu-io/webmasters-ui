@@ -1,0 +1,81 @@
+export default {
+  header: 'Offers',
+  about: 'more',
+  stats: 'stats',
+  description: 'Description',
+  rules: 'Rules',
+  programs: 'Programs',
+  new: 'New program',
+  save: 'save',
+  phone: 'Phone',
+  wallet: 'Wallet',
+  leads: 'Leads',
+  filter: {
+    categories: {
+      label: 'Categories',
+      realEstate: 'Real estate',
+      insuranceAndLoans: 'Insurance & Loans',
+      eCommerce: 'E-commerce',
+      tourism: 'Tourism',
+      legalServices: 'Legal Services',
+      cars: 'Cars',
+      constructionAndRenovation: 'Construction & Renovation',
+      medicine: 'Medicine',
+      other: 'Other'
+    },
+    promotionTypes: {
+      label: 'Promotion types',
+      online: 'online',
+      offline: 'offline',
+      mobile: 'mobile'
+    },
+    trafficTypes: {
+      label: 'Traffic Types',
+      onlineSearch: 'Online search',
+      onlineCPC: 'Online CPC',
+      onlineBanners: '​Online banners',
+      onlineXML: '​Online XML (product feeds)​​',
+      onlineSMM: '​Online SMM',
+      onlineMotivate: '​Online motivate',
+      onlineSoftware: '​Online software (toolbars, doorways, etc)',
+      onlineByBrand: '​Online brand traffic',
+      onlineCoupon: '​Online coupons',
+      onlineEmail: '​Online email',
+      onlineContent: '​Online content (articles, blogs)​​',
+      onlineRetarget: '​Online retarget​ing',
+      onlineAds: 'Online bulletin boards',
+      mobileSoftware: '​Mobile software',
+      mobileBanners: '​​Mobile banners',
+      mobileCPC: '​​Mobile CPC',
+      mobileSearch: '​​Mobile search',
+      mobileSMS: '​​Mobile SMS',
+      mobileMessengers: '​​​Mobile Messengers (Whatsapp, Telegram, Viber, iMessage)​​',
+      mobileOther: '​​Mobile other',
+      offlineOutdoor: 'Offline billboards',
+      offlineRadio: 'Offline radio',
+      offlineTV: 'Offline TV',
+      offlineCalls: 'Offline call centers',
+      offlinePrints: 'Offline prints',
+      offlineMails: 'Offline mail',
+      offlineOther: 'Offline other'
+    },
+    promoTools: {
+      label: 'Promo Tools',
+      banners: 'Banners',
+      landingPages: 'Landing Pages',
+      xmlFeeds: 'XML-Feeds',
+      tgb: 'TGB',
+      printingMaterials: 'Printing Materials',
+      emailTemplates: 'E-mail Templates',
+      keywords: 'Keywords',
+      websites: 'Websites',
+      videos: 'Videos'
+    },
+    enrollment: {
+      label: 'Enrollment',
+      all: 'all',
+      enrollment: 'enrollment',
+      notEnrolled: 'not enrolled'
+    }
+  }
+}

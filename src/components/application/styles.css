@@ -1,0 +1,7 @@
+.loading {
+  position: fixed;
+  display: inline-block;
+  left: 50%;
+  top: 50%;
+  margin: -24px -24px 0 0;
+}

@@ -1,0 +1,8 @@
+$WIDTH: 600px;
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: $WIDTH;
+}
